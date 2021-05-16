@@ -1,0 +1,1 @@
+# spring-boot-hibernate-bidirectional-many-to-many-join-table-relationship-mapping
