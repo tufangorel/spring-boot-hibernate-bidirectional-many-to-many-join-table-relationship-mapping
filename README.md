@@ -4,7 +4,7 @@
 2- ER diagram :  <br/>
 NOT : Many Product related to many Store <br/>
 
-![many_to_one_er_diagram](doc/store_products_er_diagram.png) <br/>
+![many_to_many_er_diagram](doc/store_products_er_diagram.png) <br/>
 
 
 3- Start Spring Boot application with a specific profile such as "-Dspring.profiles.active=dev" . <br/>
